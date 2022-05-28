@@ -1,2 +1,3 @@
-# notes
-Notes for everything :)
+# Notes
+
+(C) 2022 Ty Qualters
